@@ -1,6 +1,6 @@
 # tela_login
 
-A new Flutter project.
+Um modelo coringa de tela de login em flutter dart para mudanças futuras a depender do projeto.
 
 ## Getting Started
 
